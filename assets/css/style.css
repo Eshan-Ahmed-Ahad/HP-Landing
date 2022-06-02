@@ -295,12 +295,13 @@ span {
 .sticky {
     position: fixed;
     background-color: #fff;
-    box-shadow: 0 20px 50px 0 rgba(0, 0, 0, 0.5);
+    box-shadow: 0 4px 40px 0 rgb(0 0 0 / 50%);
 }
+
 
 .navbar {
     position: relative;
-    padding: 20px 0;
+    padding: 10px 0;
 }
 
 
